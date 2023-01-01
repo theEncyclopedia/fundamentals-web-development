@@ -4,6 +4,6 @@ This repository is Dashpuntsag Oidov's research note on Web programming.
 
 ## ALEXA PORTFILIO overview
 
-    Alexa portfolio project is awesome designed project made by @Bemicode
+Alexa portfolio is a great project for begginners. This project is copied by me from: <https://github.com/bedimcode>
 
 ## BEMI CHRISTMAS overview
