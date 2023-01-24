@@ -14,4 +14,10 @@ First up you need a good folder structure for your project. In ordinary html pro
 
 - Adding behavior
 
+## CSS fundamentals
+
+### Resource
+
+- Grid view: <https://learncssgrid.com/>
+
 ## BEMI CHRISTMAS overview
