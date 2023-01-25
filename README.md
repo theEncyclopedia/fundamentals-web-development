@@ -14,6 +14,8 @@ First up you need a good folder structure for your project. In ordinary html pro
 
 - Adding behavior
 
+## HTML fundamentals
+
 ## CSS fundamentals
 
 ### Resource
