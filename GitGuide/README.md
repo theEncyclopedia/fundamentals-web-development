@@ -2,7 +2,11 @@
 
 Git is the most commonly used version control system in 2000s to 2020s.
 
-## What is a perfect Commit ?
+## Using a git professionally.
+
+This section is about "How we should use git effective/conventionally".
+
+### What is a perfect Commit ?
 
 A Perfect commit is a well-messaged commit that contains the right changes.
 
@@ -14,11 +18,12 @@ A Perfect commit is a well-messaged commit that contains the right changes.
 
     - Subject must contain concise summary of what happend
     - Body must contain more detailed explanation
+
       - What is now diffrent than before ?
       - Why ?
       - Is there anything to watch out for/ anything particularly remarkable ?
 
-    1.First up see what files have changed.
+        1.First up see what files have changed.
 
 ```
 // Shows what branch is being used and lists of changes.
