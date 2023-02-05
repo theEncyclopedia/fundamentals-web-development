@@ -56,10 +56,10 @@ git commit -m ""
 git commit -am ""
 ```
 
-## Branching strategies
+### Branching strategies
 
-## Pull requests
+### Pull requests
 
-## Merge conflicts
+### Merge conflicts
 
-## Merge vs Rebase
+### Merge vs Rebase
