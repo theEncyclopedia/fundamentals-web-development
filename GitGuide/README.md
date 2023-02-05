@@ -7,7 +7,7 @@ Git is the most commonly used version control system in 2000s to 2020s.
 A Perfect commit is a well-messaged commit that contains the right changes.
 
 - Seperate your commits into correct packets
-  In 1 issue there might be many changes. After issue is solved reviewing a big PR is a difficult and requires a lot of time. So dividing each changes into seperated commits will help reviewers to review your PR fast and efficient.
+  - In 1 issue there might be many changes. After issue is solved reviewing a big PR is a difficult and requires a lot of time. So dividing each changes into seperated commits will help reviewers to review your PR fast and efficient.
 - Comment your commit perfectly.
 
 ### Creating commits
