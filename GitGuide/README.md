@@ -10,12 +10,31 @@ A Perfect commit is a well-messaged commit that contains the right changes.
 
 ### Creating commits
 
+1.First up see what files have changed.
+
 ```
+git status
+```
+
+2. Select your changes into staged change.
+
+```
+// Adding a certain files.
+git add [file_name]
+
 // Adding all changes to staged changes.
 git add .
 
 // Partially selecting changes into staged change.
 git add -f index
+```
+
+3. Commenting commit
+
+```
+git commit -m ""
+
+git commit -am ""
 ```
 
 ## Branching strategies
