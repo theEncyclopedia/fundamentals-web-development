@@ -7,13 +7,19 @@ Git is the most commonly used version control system in 2000s to 2020s.
 A Perfect commit is a well-messaged commit that contains the right changes.
 
 - Seperate your commits into correct packets
+  In 1 issue there might be many changes. After issue is solved reviewing a big PR is a difficult and requires a lot of time. So dividing each changes into seperated commits will help reviewers to review your PR fast and efficient.
+- Comment your commit perfectly.
 
 ### Creating commits
 
 1.First up see what files have changed.
 
 ```
+// Shows what branch is being used and lists of changes.
 git status
+
+// Shows exactly what is changed on that file.
+git diff [file_name]
 ```
 
 2. Select your changes into staged change.
@@ -26,7 +32,9 @@ git add [file_name]
 git add .
 
 // Partially selecting changes into staged change.
-git add -f index
+// P flag brings us down to the patch level.
+// By using this command each changes will be asked to added into staged changes or not.
+git add -p [file_name]
 ```
 
 3. Commenting commit
