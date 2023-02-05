@@ -57,6 +57,16 @@ git commit -am ""
 
 ### Branching strategies
 
+In every type of software project development creating 2 or more branch is strongly recommended.
+
+1.  For deploying the project
+2.  For development
+
+Also naming a branch as conventional structure is appropriate.
+
+- Always be integrating
+- State, release and feature branches,
+
 ### Pull requests
 
 ### Merge conflicts
