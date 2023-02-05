@@ -10,9 +10,15 @@ A Perfect commit is a well-messaged commit that contains the right changes.
   - In 1 issue there might be many changes. After issue is solved reviewing a big PR is a difficult and requires a lot of time. So dividing each changes into seperated commits will help reviewers to review your PR fast and efficient.
 - Comment your commit perfectly.
 
-### Creating commits
+  - The conventions of commenting a commit has a 2 parts. SUBJECT and BODY
 
-1.First up see what files have changed.
+    - Subject must contain concise summary of what happend
+    - Body must contain more detailed explanation
+      - What is now diffrent than before ?
+      - Why ?
+      - Is there anything to watch out for/ anything particularly remarkable ?
+
+    1.First up see what files have changed.
 
 ```
 // Shows what branch is being used and lists of changes.
