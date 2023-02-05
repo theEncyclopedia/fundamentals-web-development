@@ -16,14 +16,16 @@ A Perfect commit is a well-messaged commit that contains the right changes.
 
   - The conventions of commenting a commit has a 2 parts. SUBJECT and BODY
 
-    - Subject must contain concise summary of what happend
-    - Body must contain more detailed explanation
+        - Subject must contain concise summary of what happend
+        - Body must contain more detailed explanation
 
-      - What is now diffrent than before ?
-      - Why ?
-      - Is there anything to watch out for/ anything particularly remarkable ?
+          - What is now diffrent than before ?
+          - Why ?
+          - Is there anything to watch out for/ anything particularly remarkable ?
 
-        1.First up see what files have changed.
+### Creating commit
+
+1.First up see what files have changed.
 
 ```
 // Shows what branch is being used and lists of changes.
