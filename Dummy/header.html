@@ -19,7 +19,7 @@
   </div>
 
   <div class="nav-wrapper-desktop">
-    <nav class="user-nav" id="user-nav">
+    <div  class="user-nav" id="user-nav">
       <ul class="user-nav-list">
         <li>{{link 'community'}}</li>
         <li id="submit_huselt">{{link 'new_request' class='submit-a-request'}}</li>
@@ -32,7 +32,7 @@
           </li>
         {{/unless}}
       </ul>
-    </nav>
+    </div>
     {{#if signed_in}}
       <div class="user-info dropdown">
         <button class="dropdown-toggle" aria-haspopup="true">
@@ -78,7 +78,7 @@
         <path fill="none" stroke="currentColor" stroke-linecap="round" d="M1.5 3.5h13m-13 4h13m-13 4h13"/>
       </svg>
     </button>
-    <nav class="menu-list-mobile" id="user-nav-mobile" aria-expanded="false">
+    <div  class="menu-list-mobile" id="user-nav-mobile" aria-expanded="false">
       <ul class="menu-list-mobile-items">
         {{#if signed_in}}
           <li class="user-avatar-item item">
@@ -127,7 +127,7 @@
         {{/if}}
         </li>
       </ul>
-    </nav>
+    </div>
   </div>
 
 </header>
