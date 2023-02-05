@@ -8,12 +8,12 @@ A Perfect commit is a well-messaged commit that contains the right changes.
 
 - Seperate your commits into correct packets
 
-  - use command:
+## Creating commits
 
-  ```
-  // Adding all changes to staged changes.
-  git add .
+```
+// Adding all changes to staged changes.
+git add .
 
-  // Partially selecting changes into staged change.
-  git add -f index
-  ```
+// Partially selecting changes into staged change.
+git add -f index
+```
