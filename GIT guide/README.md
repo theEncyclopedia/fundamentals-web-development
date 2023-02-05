@@ -8,6 +8,5 @@ A Perfect commit is a well-messaged commit that contains the right changes.
 
 - Seperate your commits into correct packets
   - use command:
-    ```
-        git add
-    ```
+    `git add
+   `
