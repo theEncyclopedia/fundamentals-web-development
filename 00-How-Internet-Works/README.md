@@ -1,4 +1,12 @@
+# Overview
+
+## What is intertnet ?
+
+Intenrnet is a global interconnected computer system.
+
 # How does the Internet works ?
+
+## Steps of how internet lets you view web sites
 
 - You want to visit a certain web that contains your desired data.
 - That Web must be hosted on certain server with IP address.
@@ -11,3 +19,8 @@
 # How does Website Actually works ?
 
 -
+
+# Reference
+
+- Video: <https://www.youtube.com/watch?v=7_LPdttKXPc>
+- Stan
