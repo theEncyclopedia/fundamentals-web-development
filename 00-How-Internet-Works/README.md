@@ -1,5 +1,7 @@
 # Overview
 
+This section is mainly focused on explaining the infurstructure of the global internet networking
+
 ## What is intertnet ?
 
 Intenrnet is a global interconnected computer system.
