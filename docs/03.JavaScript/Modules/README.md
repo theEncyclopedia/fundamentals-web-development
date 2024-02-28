@@ -13,7 +13,7 @@ One thing to note is that JavaScript modules are static, meaning that all import
 
 One thing to note is that JavaScript modules are static, meaning that all import and export statements are hoisted and processed before the code is executed. This allows for static analysis and has some performance benefits, but it also means that you can't conditionally import or export modules.
 
-### Example
+## Example
 
 ```js
 // myModule.js
