@@ -4,12 +4,10 @@ JavaScript modules are a way of managing and organizing JavaScript code. Before 
 
 There are 2 kinds of exports:
 
-- name
-- defaults
+- Named exports
+- Defaults exports
 
 You can have multiple named exports per module but only one default export.
-
-One thing to note is that JavaScript modules are static, meaning that all import and export statements are hoisted and processed before the code is executed. This allows for static analysis and has some performance benefits, but it also means that you can't conditionally import or export modules.
 
 One thing to note is that JavaScript modules are static, meaning that all import and export statements are hoisted and processed before the code is executed. This allows for static analysis and has some performance benefits, but it also means that you can't conditionally import or export modules.
 
@@ -38,10 +36,3 @@ console.log(name); // logs "OpenAI"
 console.log(sayHello()); // logs "Hello from OpenAI!"
 console.log(defaultExport()); // logs "This is the default export"
 ```
-
-// app.js
-import defaultExport, { name, sayHello } from './myModule.js';
-
-console.log(name); // logs "OpenAI"
-console.log(sayHello()); // logs "Hello from OpenAI!"
-console.log(defaultExport()); // logs "This is the default export"
