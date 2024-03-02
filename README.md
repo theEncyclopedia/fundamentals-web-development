@@ -8,6 +8,7 @@ Web development is the process of creating and maintaining websites and web appl
 - **Ensuring the website is user-friendly and accessible**: This includes making sure the website is easy to navigate and works on different devices.
 
 Web development can be as simple as creating a static website with a single page of information, or as complex as building a large-scale web application with multiple features and functionalities.
+---------
 
 ## Resources
 
