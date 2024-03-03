@@ -1,6 +1,6 @@
 # Web programming fundamentals
 
-Web development is the process of creating and maintaining websites and web applications. It encompasses a wide range of activities, from:
+Web development is the process of creating and maintaining websites or web applications. It encompasses a wide range of activities, from:
 
 - **Designing the structure and layout of the website:** This involves defining how the information will be organized and presented on the web page.
 - **Writing code**: Web developers use various programming languages, like HTML, CSS, and JavaScript, to build the website's functionality and interactivity.
